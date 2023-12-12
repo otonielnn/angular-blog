@@ -1,0 +1,6 @@
+@media screen and (max-width:800px) {
+  .container__content {
+    margin: auto 10px;
+  }
+}
+
